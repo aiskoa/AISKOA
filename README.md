@@ -16,8 +16,6 @@
 **Contact me on Discord: Julwna#7313** 
 
 <a href="https://discord.gg/VFg9SSmPFy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9TX7ybqXNK" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17886519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17234192" height="30" width="40" /></a>
-
 <a href="https://www.twitter.com/Rawierdt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rawierdt?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
 /></a><a href="https://www.github.com/Rawierdt" target="_blank" rel="noreferrer"><img
