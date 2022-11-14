@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/Rawierdt?logo=github&style=for-the-
 
 <p align="center">
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawierdt&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=omni&hide_border=true" alt="Rawier"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julwna&theme=omni&hide_border=true" alt="Rawier" /></p></center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawierdt&theme=omni&hide_border=true" alt="Rawier" /></p></center>
 
 
 [portfolio]: https://Rawier.vercel.app/es
