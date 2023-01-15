@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://Rawier.vercel.app" target="blank" style="color:#9800FF;">Rawier</a>!</h1>
 
 <h3 align="center">I love bass music, programing and maths!</h3>
-<p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/rawiermd.jpg"/></a>
+<p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/rawier.jpg"/></a>
 
 ⚡ Music, ⚛️ Time Traveler, 🌎 Astronomy, 🧪 Medicine</center></p>
 
