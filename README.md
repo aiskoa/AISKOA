@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://Rawier.vercel.app" target="blank" style="color:#9800FF;">Rawier</a>!</h1>
 
 <h3 align="center">I love bass music, programing and maths!</h3>
-<p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/julwna.jpg"/></a>
+<p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/rawiermd.jpg"/></a>
 
 ⚡ Music, ⚛️ Time Traveler, 🌎 Astronomy, 🧪 Medicine</center></p>
 
 - 🚀 Cybersecurity
 - 🖥️ Studying computer science
-- 📚 In my free time im creating videos on youtube.
-- 💼 You can see my [Web]
-- 🔎 Random Facts: I like tech, photos, hacking, gaming, anime
+- 📚 In my free time im creating videos on youtube and music.
+- 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a>
+- 🔎 Facts: I like tech, design, hacking, gaming and anime.
 
 ![Views](https://komarev.com/ghpvc/?username=Rawier&color=blueviolet)
 
@@ -23,9 +23,6 @@ src="https://img.shields.io/github/followers/Rawierdt?logo=github&style=for-the-
 <p align="center">
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawierdt&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=omni&hide_border=true" alt="Rawier"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawierdt&theme=omni&hide_border=true" alt="Rawier" /></p></center>
-
-
-[portfolio]: https://Rawier.vercel.app/es
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
