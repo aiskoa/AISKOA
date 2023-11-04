@@ -4,13 +4,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rawierdt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawierdt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rawierdt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<center>⚡ Music, ⚛️ Cybersecurity, 🌎 Astronomy, 🧪 Medicine 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
+<center>⚡ Music, ⚛️ Cybersecurity, 🌎 Astronomy, 🧪 Medicine, 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
 
 ###
 
