@@ -1,26 +1,33 @@
-<h3 align="center">I love bass music, programing and maths!</h3>
+<h2 align="left">Hi 👋! is Rawier</h2>
 <p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/p_rawier.jpg"/></a>
 
-<center>⚡ Music, ⚛️ Time Traveler, 🌎 Astronomy, 🧪 Medicine</center>
+###
 
-- 🚀 Cybersecurity
-- 🖥️ Studying computer science
-- 📚 In my free time i'm make some mid tempo music.
-- 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a>
-- 🔎 Facts: I like tech, design, etical hacking, gaming and anime.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawierdt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawierdt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<center>⚡ Music, ⚛️ Cybersecurity, 🌎 Astronomy, 🧪 Medicine 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
+
+###
 
 ![Views](https://komarev.com/ghpvc/?username=Rawier&color=blueviolet)
 
-**Contact me on Discord: Rawier#7313** <a href="https://discord.gg/VFg9SSmPFy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9TX7ybqXNK" height="30" width="40" /></a>
+###
 
-<a href="https://www.twitter.com/Rawierdt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Rawierdt?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
-/></a><a href="https://www.github.com/Rawierdt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rawierdt?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href"https://www.linkedin.com/in/rawier/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
 
-<p align="center">
-<center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawierdt&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=omni&hide_border=true" alt="Rawier"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawierdt&theme=omni&hide_border=true" alt="Rawier" /></p></center>
+###
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
