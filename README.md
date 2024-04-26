@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! is Rawier</h2>
+<h2 align="center">Hi 👋 is Rawier!</h2>
 <p align="center"><center><a href="https://www.youtube.com/watch?v=a3HyVt4bDis" target="blank"><img align="center" src="src/p_rawier.jpg"/></a>
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<center>⚡ Music, 🔒 Cybersecurity, 🌎 Astronomy, 🧪 Science, 💼 You can see my <a href="https://Rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
+<center>⚡ Music, 🔒 Cybersecurity, 🌎 Astronomy, 🧪 Science, 💼 You can see my <a href="https://rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
 
 ###
 
