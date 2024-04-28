@@ -10,7 +10,7 @@
 
 ###
 
-<center>⚡ Music, 🔒 Cybersecurity, 🌎 Astronomy, 🧪 Science, 💼 You can see my <a href="https://rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
+<center>🎵 Music, 🔒 Cybersecurity, 🌎 Astronomy, 🧪 Science, 💼 You can see my <a href="https://rawier.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
 
 ###
 
