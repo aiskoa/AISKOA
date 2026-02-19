@@ -14,6 +14,13 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aiskoa&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
+<div align="center">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=4&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=4&theme=buefy)
+  
+</div>
+
+
+
 ###
 
 <center>🎵 Music, 🔒 Cybersecurity, 🌎 Astronomy, 🧪 Science, 💼 You can see my <a href="https://aiskoa.vercel.app" target="blank" style="color:#52F704;">Portafolio</a> </center>
@@ -36,4 +43,5 @@
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+
 
