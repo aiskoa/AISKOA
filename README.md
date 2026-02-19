@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=4&theme=material-palenight&hide_border=true&background=FFFFFF00"  />
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aiskoa&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&background=FFFFFF00"  />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aiskoa&theme=material-palenight&hide_border=true&background=FFFFFF00"  />
 </div>
 
 ###
@@ -30,6 +30,7 @@
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+
 
 
 
