@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=4&theme=nightowl"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aiskoa&layout=compact&langs_count=4&theme=material-palenight"  />
 </div>
 
 
@@ -31,6 +31,7 @@
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
+
 
 
 
